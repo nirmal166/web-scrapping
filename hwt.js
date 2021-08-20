@@ -37,7 +37,7 @@ let bowlers= searchTool(".table.bowler tbody tr");
 //for(let i=0;i<bowlerTables.length;i++){
   //html funtion
  // htmlData += searchTool(bowlerTables[i]).html();
-//}
+
 //fs.writeFileSync("table.html",htmlData);
   //cram this -> file
   //loop
